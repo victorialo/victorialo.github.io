@@ -1,3 +1,59 @@
 @import url("screen.css");
 @import url("non-screen.css") handheld;
 @import url("non-screen.css") only screen and (max-device-width:640px);
+
+h3 {
+    font-size: 1.85em;
+    border-bottom: .2em double #d3ccc1;
+    color: #7c334f;
+    text-align: center;
+    font-style: italic;
+    margin: 1.1em 0 .38em;
+    line-height: 1.2;
+    padding-bottom: 10px;
+}
+
+.tab {
+    /*border-top: .2em solid #d3ccc1;*/
+    border-bottom: .2em solid #d3ccc1;
+    text-align: center;
+}
+
+button.tablink {
+    margin: 0px 0px;
+    padding: 10px;
+    background-color: rgba(124,51,79,0.8);/*#7c334f;*/
+    text-transform: uppercase;
+    color: #ece4d8;
+    font-size: 1em;
+    font-weight: 700;
+    font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+    /*text-shadow: 1px 1px #000000;*/
+    -webkit-transition: background-color 0.5s; /* Safari */
+    transition: background-color 0.5s;
+}
+
+button.tablink.active {
+    background-color: rgba(124,51,79,1);
+    -webkit-transition: background-color 1s; /* Safari */
+    transition: background-color 1s;
+}
+button.tablink:hover {
+    background-color: rgba(124,51,79,1);
+    -webkit-transition: background-color 0.5s; /* Safari */
+    transition: background-color 0.5s;
+}
+
+div .tabcontent {
+    display: none;
+    height: 50vh;
+    overflow: auto;
+    padding: 5px;
+}
+
+div .tabcontent.active {
+    display: block;
+}
+b {
+    font-weight: bold;
+}
