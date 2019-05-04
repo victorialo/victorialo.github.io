@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6573d98f-ba79-48eb-be94-747cc416770b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo april resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo august resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo dec resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo dec resumenoaddress.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo feb resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo jan resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo july resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo nov resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo oct old resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo oct resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo oct resume2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo september resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria Lo septresume3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resumes/Victoria's Resume 2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/non-screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/non-screen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/screen.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="217" column="37" lean-forward="true" selection-start-line="217" selection-start-column="37" selection-end-line="217" selection-end-column="37" />
+            <state relative-caret-position="321">
+              <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -142,12 +126,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556410653425</updated>
       <workItem from="1556410665204" duration="13808000" />
-      <workItem from="1556527875428" duration="2437000" />
+      <workItem from="1556527875428" duration="5194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16245000" />
+    <option name="totallyTimeSpent" value="19002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -219,8 +203,8 @@
     <entry file="file://$PROJECT_DIR$/CNAME" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="217" column="37" lean-forward="true" selection-start-line="217" selection-start-column="37" selection-end-line="217" selection-end-column="37" />
+        <state relative-caret-position="321">
+          <caret line="84" column="42" selection-start-line="84" selection-start-column="42" selection-end-line="84" selection-end-column="42" />
         </state>
       </provider>
     </entry>
