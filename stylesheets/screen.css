@@ -269,7 +269,6 @@ span.banner-fix {
 
 section#main_content {
   z-index: 2;
-  padding: 20px 82px 0;
   min-height:185px;
 }
 
@@ -566,4 +565,19 @@ dd p:first-child {
   margin: .8em 0;
   font-size: .85em;
   font-style: italic;
+}
+
+@media handheld, only screen and (min-width: 640px) {
+  .tabs {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  button.tablink {
+    flex-grow: 1;
+  }
+
+  section#main_content {
+    padding: 20px 82px 0;
+  }
 }
