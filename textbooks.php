@@ -34,7 +34,8 @@ OBO == "Or best offer". The prices that are links are linked to a screenshot of 
 
 
 <p>
-<center><div style="float:right;width:700px;"><img src="http://i.imgur.com/HgphpnA.jpg" width="700px"><br>If you see a book here in this photo that's not listed, feel free to make an offer on it anyway, but be warned, I might not be willing to sell it.</div></center></p>
+<center><div style="float:right;width:700px;">
+<img src="http://i.imgur.com/HgphpnA.jpg" width="700px"><br>If you see a book here in this photo that's not listed, feel free to make an offer on it anyway, but be warned, I might not be willing to sell it.</div></center></p>
     
 <h3><a name="bio1a"></a>Bio 1A/L: </h3> 
     <i>Biology, Eighth Edition</i>  <BR>
@@ -197,7 +198,10 @@ These are actually from my dad back when he went to school at UC Berkeley.<BR><B
 
 <BR>
 And these random novels, if you're interested. Click for full-view of image. <BR>
-<a href="http://i.imgur.com/0fM1S2E.jpg" target=_blank><img src="http://i.imgur.com/0fM1S2E.jpg" width=550px></a> <a href="http://i.imgur.com/NDMjbTo.jpg" target=_blank><img src="http://i.imgur.com/NDMjbTo.jpg" width=550px></a> <a href="http://i.imgur.com/xR89vHK.jpg" target=_blank><img src="http://i.imgur.com/xR89vHK.jpg" width=550px></a><BR>
+<a href="http://i.imgur.com/0fM1S2E.jpg" target=_blank>
+<img src="http://i.imgur.com/0fM1S2E.jpg" width=550px></a> <a href="http://i.imgur.com/NDMjbTo.jpg" target=_blank>
+<img src="http://i.imgur.com/NDMjbTo.jpg" width=550px></a> <a href="http://i.imgur.com/xR89vHK.jpg" target=_blank>
+<img src="http://i.imgur.com/xR89vHK.jpg" width=550px></a><BR>
 
 
 <h3><a name="pdf"></a>PDFs: </h3>
