@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6573d98f-ba79-48eb-be94-747cc416770b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resumes/Victoria'sResume2021.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resumes/Victoria'sResume2021.pdf:Zone.Identifier" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume" beforeDir="false" afterPath="$PROJECT_DIR$/resume" afterDir="false" />
-    </list>
+    <list default="true" id="6573d98f-ba79-48eb-be94-747cc416770b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,8 +162,16 @@
       <workItem from="1560884205716" duration="577000" />
       <workItem from="1561416400645" duration="274000" />
       <workItem from="1561417151413" duration="38000" />
-      <workItem from="1609898194235" duration="757000" />
+      <workItem from="1609898194235" duration="1468000" />
     </task>
+    <task id="LOCAL-00001" summary="updated resume, added victoria.engineer, added new projects">
+      <created>1609899057438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609899057438</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -202,6 +202,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated resume, added victoria.engineer, added new projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated resume, added victoria.engineer, added new projects" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource.css">
