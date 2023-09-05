@@ -22,23 +22,28 @@ h3 {
 button.tablink {
     margin: 0px 0px;
     padding: 10px;
-    background-color: rgba(124,51,79,0.8);/*#7c334f;*/
+    /*background-color: rgba(124,51,79,0.8);!*#7c334f;*!*/
+    background-color: rgba(0,0,0,0);
     text-transform: uppercase;
-    color: #ece4d8;
+    /*color: #ece4d8;*/
+    color: rgba(124,51,79,0.8);
     font-size: 1em;
     font-weight: 700;
     font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+    border: none;
     /*text-shadow: 1px 1px #000000;*/
     -webkit-transition: background-color 0.5s; /* Safari */
     transition: background-color 0.5s;
 }
 
 button.tablink.active {
+    color: #ece4d8;
     background-color: rgba(124,51,79,1);
     -webkit-transition: background-color 1s; /* Safari */
     transition: background-color 1s;
 }
 button.tablink:hover {
+    color: #ece4d8;
     background-color: rgba(124,51,79,1);
     -webkit-transition: background-color 0.5s; /* Safari */
     transition: background-color 0.5s;
